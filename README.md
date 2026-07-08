@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Victor 👋
 
-<!--
-**vhbrilhante/vhbrilhante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student based in Brazil.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science student
+- 💻 Interested in Networking, Infrastructure, Cybersecurity, and Software Development
+- 🌐 Advanced English (C1)
+- 📚 Always learning and building projects
+
+## Tech Stack
+
+- Python
+- PostgreSQL
+- Git
+- Linux
+
+## Current Focus
+
+- Networking
+- Backend Development
+- Cybersecurity
+- Computer Science fundamentals
+
+---
+
+> "let time take its course."
