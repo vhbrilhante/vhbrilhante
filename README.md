@@ -5,7 +5,7 @@ Computer Science student based in Brazil.
 ## About
 
 - 🎓 Computer Science student
-- 💻 Interested in Networking, Infrastructure, and 
+- 💻 Interested in Networking and Infrastructure
 - 🌐 Advanced English (C1)
 - 📚 Always learning and building projects
 
