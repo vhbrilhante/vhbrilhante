@@ -5,21 +5,20 @@ Computer Science student based in Brazil.
 ## About
 
 - 🎓 Computer Science student
-- 💻 Interested in Networking, Infrastructure, and Infraestructure
+- 💻 Interested in Networking, Infrastructure, and 
 - 🌐 Advanced English (C1)
 - 📚 Always learning and building projects
 
 ## Tech Stack
 
-- Python
 - PostgreSQL
 - Git
-- Linux
+- Linux Server
 
 ## Current Focus
 
 - Networking
-- Backend Development
+- Server Orchestration
 - Cybersecurity
 - Computer Science fundamentals
 
